@@ -1,1 +1,1 @@
-# cheminformatics_pipeline
+# Pred-hERG 5.0 
